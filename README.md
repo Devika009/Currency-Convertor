@@ -1,4 +1,4 @@
-# brunda_github
+# devika_github
 
 ## **Currency Converter App**
 A simple Java-based currency converter application using advanced Java concepts like Swing for GUI.
