@@ -22,7 +22,7 @@ A simple Java-based currency converter application using advanced Java concepts 
 
 **Setup Instructions**  
   * Clone the repository:
-      https://github.com/Brunda6/Advanced_java_project/blob/main/CurrencyConverterApp.java
+      https://https://github.com/Devika009/Currency-Convertor
     
   * Open in IntelliJ IDEA:
       Open IntelliJ IDEA and select File > Open.
